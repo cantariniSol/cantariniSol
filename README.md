@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cantariniSol
 - 👀 I’m interested in Testing QA Automation
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Cypress
 - 📫 How to reach me cantarinisol@gmail.com
 
 <!---
