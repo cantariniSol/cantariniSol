@@ -1,4 +1,4 @@
-- 👋 Hola, soy @cantariniSol
+👋 Hola, soy @cantariniSol
 - 👩‍💻 Soy **Ingeniera QA (Manual & Automation)**, apasionada por la calidad del software.
 - ⚙️ Mis herramientas principales incluyen **Postman, Selenium y Cypress**.
 - 🌱 Siempre aprendiendo y buscando nuevas tecnologías para optimizar los procesos de prueba.
